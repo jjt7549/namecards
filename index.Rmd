@@ -1,0 +1,17 @@
+---
+title: "장정택"
+image: "image.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jjt7549"
+  - label: Email
+    url: "jjt7549@naver.com"
+output:
+  postcards::jolla
+---
+ 
+**Statistics ・ Data Analyst**  
+
+음악, 뉴스, 커머스 등 다양한 도메인 데이터 경험  
+가설 기반 EDA, 서비스 인사이트 도출, ML Features 탐색, 실험 지표 분석 등
+
